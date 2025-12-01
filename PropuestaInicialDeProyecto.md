@@ -72,7 +72,7 @@ Marca los que planeas usar:
 | 2 |Calibrador|Responsable verificar si los sensores estan funcionando correctamente, asegurando que las lecturas sean precisas y estén dentro de los rangos establecidos.| [] Planeada [x] En desarrollo |
 | 3 | Interfaz| Clase que realiza la conexión entre operador y maquina | [] Planeada [X] En desarrollo |
 | 4 | Monitoreo| Clase que relizará la conexión de trabajo de los componentes.| [x] Planeada ☐ En desarrollo |
-| 5 | GesrionarErrores| Clase encargada de gestionar los posibles errores.| [x] Planeada ☐ En desarrollo |
+| 5 | GestionarErrores| Clase encargada de gestionar los posibles errores.| [x] Planeada ☐ En desarrollo |
 
 > *(Agrega más filas si lo necesitas.)*
 
