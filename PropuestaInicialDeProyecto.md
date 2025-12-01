@@ -68,10 +68,11 @@ Marca los que planeas usar:
 
 | Nº | Nombre de la funcionalidad | Descripción breve | Estado actual |
 |----|-----------------------------|-------------------|----------------|
-| 1 |Sensores|Son los que transmiten la información segun la percepción de entorno| [x] Planeada  ☐En desarrollo |
-| 2 |Calibrador|Responsable de ajustar y calibrar los valores obtenidos por los sensores, asegurando que las lecturas sean precisas y estén dentro de los rangos establecidos. Puede interactuar con las clases de sensores para aplicar factores de corrección.| [x] Planeada ☐ En desarrollo |
-| 3 | Interfaz| Clase que muestra datos al usuario | [x] Planeada ☐ En desarrollo |
+| 1 |Sensores|Son los que transmiten la información segun la percepción de entorno| [] Planeada  [x]En desarrollo |
+| 2 |Calibrador|Responsable verificar si los sensores estan funcionando correctamente, asegurando que las lecturas sean precisas y estén dentro de los rangos establecidos.| [] Planeada [x] En desarrollo |
+| 3 | Interfaz| Clase que realiza la conexión entre operador y maquina | [] Planeada [X] En desarrollo |
 | 4 | Monitoreo| Clase que relizará la conexión de trabajo de los componentes.| [x] Planeada ☐ En desarrollo |
+| 5 | GesrionarErrores| Clase encargada de gestionar los posibles errores.| [x] Planeada ☐ En desarrollo |
 
 > *(Agrega más filas si lo necesitas.)*
 
